@@ -58,4 +58,4 @@ print(name[:])  # print complate string [0:17]
 print(name[0::2])   #remove every 2nd character from [0:17:2]
 print(name[-17:0])  # dont bo print
 print(name[:-1])
-print(name[-17:-1)
+print(name[-17:-1])
